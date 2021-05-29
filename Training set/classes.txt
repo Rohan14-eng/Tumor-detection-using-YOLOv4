@@ -1,0 +1,3 @@
+Cancerous tissue
+Non cancerous tissue
+Fatty tissue
